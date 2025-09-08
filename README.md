@@ -6,7 +6,7 @@
 
 <br>
 
-_Desenvolvedor de software e De Inteligência Artificial, focado na construção de modelos de Deep Learning e na integração de IA em sistemas complexos. Meu Objetivo é transformar dados brutos em inteligência acionável, desenvolvendo soluções de ponta a ponta, do backend à interface do usuário._
+_Desenvolvedor de software com foco em Inteligência Artificial, construção de modelos de Deep Learning e na integração de IA em sistemas complexos. Meu Objetivo é transformar dados brutos em inteligência acionável, desenvolvendo soluções de ponta a ponta, do backend à interface do usuário.
 
 ---
 
