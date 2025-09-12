@@ -51,7 +51,7 @@ _Desenvolvedor de software com foco em Inteligência Artificial, construção de
 ---
 <div align="center">
   <a href="https://github.com/lucasabreuzip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasabreuzip&show_icons=true&theme=darcula&include_all_commits=true&count_private=false)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasabreuzip&show_icons=true&theme=darcula&include_all_commits=false&count_private=false)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabreuzip&layout=compact&langs_count=7&theme=darcula"/>
 
 </div>
