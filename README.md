@@ -49,8 +49,8 @@
 ---
 <div align="center">
   <a href="https://github.com/lucasabreuzip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasabreuzip&show_icons=true&theme=darcula&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabreuzip&layout=compact&langs_count=8&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasabreuzip&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabreuzip&layout=compact&langs_count=8&theme=dark"/>
 
 
 </div>
