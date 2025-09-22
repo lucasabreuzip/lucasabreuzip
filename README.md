@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+%5BLucas+Abreu%5D;Desenvolvedor+De+IA;Entusiasta+Em+Data+Science;Estudante;Novo+No+GitHub">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1&color=f29858&center=true&vCenter=true&width=500&lines=+Bem-Vindo+ao+meu+Git;Inteligencia+Artificial;Desenvolvedor+De+IA;Estudante;Novo+No+GitHub">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 ---
 
-**Conhecimento em Linguagens de Programação**
+**Conhecimento em Linguagens de Programação:**
 <br>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,7 +22,7 @@
 </div>
 <br>
 
-**Frameworks & Tecnologias**
+**Tecnologias & Frameworks**
 <br>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -35,7 +35,7 @@
 </div>
 <br>
 
-**Ciência de Dados & Machine Learning**
+**Machine Learning & Ciência de Dados**
 <br>
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
