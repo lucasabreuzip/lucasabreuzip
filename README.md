@@ -49,8 +49,9 @@
 ---
 <div align="center">
   <a href="https://github.com/lucasabreuzip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasabreuzip&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabreuzip&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasabreuzip&theme=zenburn"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasabreuzip&theme=zenburn"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasabreuzip&theme=zenburn"/>
 
 
 </div>
