@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1&color=f29858&center=true&vCenter=true&width=500&lines=+Bem-Vindo+ao+meu+Git;Inteligencia+Artificial;Desenvolvimento+De+IA;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1&color=f29858&center=true&vCenter=true&width=500&lines=+Bem+Vindo!+ao+meu+Git;Inteligencia+Artificial;Desenvolvimento+De+IA;RAG;">
   </a>
 </div>
 
