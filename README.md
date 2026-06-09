@@ -18,5 +18,4 @@
   <a href="https://github.com/lucasabreuzip">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasabreuzip&theme=slateorange"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasabreuzip&theme=slateorange"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasabreuzip&theme=slateorange"/>
 </div>
